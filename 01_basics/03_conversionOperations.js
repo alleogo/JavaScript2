@@ -69,7 +69,31 @@
 // "" => false
 // "string" => true
 
-let number = 234
-let stringNumber = String(number)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// let number = 234
+// let stringNumber = String(number)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+// **************** Operations ********************** //
+
+// let str1 = "Hari "
+// let str2 = "Bol"
+// let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log("1" + 2 + 2)
+// console.log(1 + 2 + "2")
+// console.log(1 + "2" + 2)
+
+// console.log(+true)
+// console.log(true+)   // error
+// console.log(+"")
+
+// let x = 2
+// let y = 3
+// x++
+// console.log(x+y)
+// console.log(x+++y)
+// console.log(x)

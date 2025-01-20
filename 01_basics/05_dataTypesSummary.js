@@ -29,3 +29,9 @@ const func = function(){
 // typeof func(function) is object
 // typeof myObj(object) is object
 // typeof null is object *important*
+
+// ******************** Memory ********************
+
+// Stack (Primitive), Heap (Non Primitive)
+// (By value)         (By Reference)
+// Same as in JAVA
